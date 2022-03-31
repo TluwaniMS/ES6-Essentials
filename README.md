@@ -143,6 +143,9 @@ A Javascript `set` is an object/collection of unique elements.
 * looping a `set`:
 
 ## 7. Javascript Default Function Parameters
+
+`Default Function Parameters` serve as initialised arguments that represent default values, that can be used in case no arguments are passed when calling a function.
+
 ## 8. Javascript Array Methods
 ## 9. Javascript Destructuring
 ## 10. Javascript Template Literals
