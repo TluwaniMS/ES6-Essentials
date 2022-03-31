@@ -179,6 +179,11 @@ The `splice()` method is used to either add or remove elements from an array
 * How to access object properties and assign a new name to them and a default parameter:
 
 ## 10. Javascript Template Literals
+
+`Template literals` use backticks  ` `` ` and not quotes `("...")` to create a string;
+
+It allows for one to use various punctuation marks and reference variable values in the string with ease.
+
 ## 11. Javascript Switch Statements
 ## 12. Javascript Ternary Operators
 ## 13. Javascript Spread Operators
