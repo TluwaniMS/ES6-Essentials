@@ -98,6 +98,21 @@ The `Callback Function` is invoked with three arguments:
 
 `ArrayMethod(()=>{/*...*/})` or `ArrayMethod(function(){/*...*/})`
 * `reduce()`:
+
+The `reduce()` method runs a reducer `Callback Function` and returns a single value.
+
+The `Callback Function` passed in the reduce method is invoked with four arguments:
+
+-> The previous value
+
+-> The current value
+
+-> The current index
+
+-> The array
+
+`reduce((previousValue,currentValue,currentIndex,array)=>{/*...*/})` or `reduce(function(previousValue,currentValue,currentIndex,array){/*...*/})`
+
 * `sort()`:
 ## 5. Javascript Arrow Functions
 ## 6. Javascript Sets
