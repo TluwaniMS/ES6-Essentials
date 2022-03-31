@@ -185,8 +185,17 @@ The `splice()` method is used to either add or remove elements from an array
 It allows for one to use various punctuation marks and reference variable values in the string with ease.
 
 ## 11. Javascript Switch Statements
+
+The javascript `switch` statement is used to execute/trigger specific functions depending on the conditions that have been given.
+
 ## 12. Javascript Ternary Operators
+
+The `Ternary operator` is a simplified/shortened way of writing out a conditional operator `if/else`
+
 ## 13. Javascript Spread Operators
+
+The `Spread operator` allows us to join array elements  or object properties into another array or object
+
 ## 14. Javascript Promise
 ## 15. Javascript setTimeout
 ## 16. Javascript setInterval
