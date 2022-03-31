@@ -15,6 +15,35 @@ This refers to variables that are declared inside/within a function; these varia
 This refers to functions that are declared inside curly braces `{}` (a block).
 Variables declared in these blocks can not be accessed/used outside of the blocks.
 ## 3. Javascript Variable Declarers
+
+* `var`:
+
+-> Variables declared with `var` can be redeclared
+
+-> Variables defined with `var` must be declared before use
+
+-> Variables defined with `var` are not limited to a block or function scope
+
+-> Variables defined with `var` can be reassigned.
+* `let`:
+
+-> Variables declared with `let` can not be redeclared
+
+-> Variables defined with `let` must be declared before use
+
+-> Variables defined with `let` are limited to a block or function scope
+
+-> Variables defined with `let` can be reassigned.
+* `const`:
+
+
+-> Variables declared with `const` can not be redeclared
+
+-> Variables defined with `const` must be declared before use
+
+-> Variables defined with `const` are limited to a block or function scope
+
+-> Variables defined with `const` can not be reassigned.
 ## 4. Javascript Higher Order Array Functions
 ## 5. Javascript Arrow Functions
 ## 6. Javascript Sets
