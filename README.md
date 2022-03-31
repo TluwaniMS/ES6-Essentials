@@ -208,5 +208,12 @@ Code that is responsible for getting the required values/data
 
 Code that must wait for the producer to deliver the required data to be consumed or perform the defined data manipulations
 
+A `Promise` is a Javascript object that links producing and consuming code.
+
 ## 15. Javascript setTimeout
+
+The `setTimeout()` method allows the calling of a function, after a certain amount of time
+
 ## 16. Javascript setInterval
+
+The `setInterval()` allows us to run a function after a set period of time repeatedly.
