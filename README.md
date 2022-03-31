@@ -197,5 +197,16 @@ The `Ternary operator` is a simplified/shortened way of writing out a conditiona
 The `Spread operator` allows us to join array elements  or object properties into another array or object
 
 ## 14. Javascript Promise
+
+A Javascript `Promise` is a representation of a value/data that is still to be.
+
+* `Producing Code`:
+
+Code that is responsible for getting the required values/data
+
+* `Consuming Code`:
+
+Code that must wait for the producer to deliver the required data to be consumed or perform the defined data manipulations
+
 ## 15. Javascript setTimeout
 ## 16. Javascript setInterval
