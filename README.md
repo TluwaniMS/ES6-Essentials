@@ -57,6 +57,44 @@ Variables that are declared with the `const` keyword are limited within
 
 `Javascript Higher Order Array Functions` call a `Callback Function` for each element in the array provided and return an array of values;
 excluding `reduce()`.
+
+* `filter()`:
+
+The `filter()` returns new array with all the elements that satisfy the conditions required by the `Callback function` provided.
+
+The `Callback Function` is invoked with three arguments:
+
+-> The value of the element
+
+-> The index of the element
+
+-> The array
+
+`ArrayMethod(()=>{/*...*/})` or `ArrayMethod(function(){/*...*/})`
+* `map()`:
+
+The `Callback Function` is invoked with three arguments:
+
+-> The value of the element
+
+-> The index of the element
+
+-> The array
+
+`ArrayMethod(()=>{/*...*/})` or `ArrayMethod(function(){/*...*/})`
+* `forEach()`:
+
+The `Callback Function` is invoked with three arguments:
+
+-> The value of the element
+
+-> The index of the element
+
+-> The array
+
+`ArrayMethod(()=>{/*...*/})` or `ArrayMethod(function(){/*...*/})`
+* `reduce()`:
+* `sort()`:
 ## 5. Javascript Arrow Functions
 ## 6. Javascript Sets
 ## 7. Javascript Default Function Parameters
