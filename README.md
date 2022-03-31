@@ -114,6 +114,21 @@ The `Callback Function` passed in the reduce method is invoked with four argumen
 `reduce((previousValue,currentValue,currentIndex,array)=>{/*...*/})` or `reduce(function(previousValue,currentValue,currentIndex,array){/*...*/})`
 
 * `sort()`:
+
+The `sort()` method returns an array of sorted elements in ascending or descending order depending on the `Callback Function` passed in.
+
+The `Callback Function` passed in the `sort()` method is invoked with two arguments:
+
+-> `a` the first element for comparison
+
+-> `b` the second element for comparison
+
+`sort((a,b)=>{/*...*/})` or `sort(function(a,b){/*...*/})`
+
+The `sort()` method by default sorts values as strings and sorts them in ascending order;
+
+if ever an array of integers is passed the elements will be converted to strings and sorted according to eacch characters Unicode code point value.
+
 ## 5. Javascript Arrow Functions
 ## 6. Javascript Sets
 ## 7. Javascript Default Function Parameters
