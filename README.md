@@ -60,7 +60,7 @@ excluding `reduce()`.
 
 * `filter()`:
 
-The `filter()` returns new array with all the elements that satisfy the conditions required by the `Callback function` provided.
+The `filter()` method returns new array with all the elements that satisfy the conditions required by the `Callback function` provided.
 
 The `Callback Function` is invoked with three arguments:
 
@@ -73,7 +73,7 @@ The `Callback Function` is invoked with three arguments:
 `ArrayMethod(()=>{/*...*/})` or `ArrayMethod(function(){/*...*/})`
 * `map()`:
 
-The `map()` returns a new array containing manipulated element properties or specific element properties that are set in the `Callback Function` provided.
+The `map()` method returns a new array containing manipulated element properties or specific element properties that are set in the `Callback Function` provided.
 
 The `Callback Function` is invoked with three arguments:
 
@@ -85,6 +85,8 @@ The `Callback Function` is invoked with three arguments:
 
 `ArrayMethod(()=>{/*...*/})` or `ArrayMethod(function(){/*...*/})`
 * `forEach()`:
+
+The `forEach()` method runs the logic provided in the `Callback Function` on each element in an array
 
 The `Callback Function` is invoked with three arguments:
 
