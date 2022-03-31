@@ -9,35 +9,9 @@ Hoisting is when the Javascript file interpreter moves all the functions, variab
 ## 6. [Javascript Sets](https://github.com/TluwaniMS/Javascript-Sets)
 
 
-## 7. Javascript Default Function Parameters
+## 7. [Javascript Default Function Parameters](https://github.com/TluwaniMS/Javascript-Default-Function-Parameters)
 
-`Default Function Parameters` serve as initialised arguments that represent default values, that can be used in case no arguments are passed when calling a function.
-
-## 8. Javascript Array Methods
-
-* `concat()`:
-
-The `concat()` method is used to join two array and return only one
-
-* `indexOf()`:
-
-The `indexOf()` method is used to identify the index of an element in an array
-
-* `includes()`:
-
-The `includes()` method is used to check if an array includes a specified element
-
-* `join()`:
-
-The `join()` method is used to join all the elements in an array and return them as a single string
-
-* `push()`:
-
-The `push()` method is used to add new elements to the end of an array
-
-* `splice()`:
-
-The `splice()` method is used to either add or remove elements from an array
+## 8. [Javascript Array Methods](https://github.com/TluwaniMS/Javascript-Array-Methods)
 
 ## 9. Javascript Destructuring
 
