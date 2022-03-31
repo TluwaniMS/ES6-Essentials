@@ -73,6 +73,8 @@ The `Callback Function` is invoked with three arguments:
 `ArrayMethod(()=>{/*...*/})` or `ArrayMethod(function(){/*...*/})`
 * `map()`:
 
+The `map()` returns a new array containing manipulated element properties or specific element properties that are set in the `Callback Function` provided.
+
 The `Callback Function` is invoked with three arguments:
 
 -> The value of the element
