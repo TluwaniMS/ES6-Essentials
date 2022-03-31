@@ -18,6 +18,8 @@ Variables declared in these blocks can not be accessed/used outside of the block
 
 * `var`:
 
+Variables that are declared with the `var` keyword can be accessed in any scope of the file. 
+
 -> Variables declared with `var` can be redeclared
 
 -> Variables defined with `var` must be declared before use
@@ -26,6 +28,8 @@ Variables declared in these blocks can not be accessed/used outside of the block
 
 -> Variables defined with `var` can be reassigned.
 * `let`:
+
+Variables that are declared with the `let` keyword are limited within the scope that they are declared in.
 
 -> Variables declared with `let` can not be redeclared
 
@@ -36,6 +40,7 @@ Variables declared in these blocks can not be accessed/used outside of the block
 -> Variables defined with `let` can be reassigned.
 * `const`:
 
+Variables that are declared with the `const` keyword are limited within 
 
 -> Variables declared with `const` can not be redeclared
 
