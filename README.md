@@ -6,14 +6,8 @@ Hoisting is when the Javascript file interpreter moves all the functions, variab
 ## 3. [Javascript Variable Declarers](https://github.com/TluwaniMS/Javascript-Variable-Declarers)
 ## 4. [Javascript Higher Order Array Functions](https://github.com/TluwaniMS/Javascript-Higher-Order-Array-Functions)
 ## 5. [Javascript Arrow Functions](https://github.com/TluwaniMS/Javascript-Arrow-Functions)
-## 6. Javascript Sets
+## 6. [Javascript Sets](https://github.com/TluwaniMS/Javascript-Sets)
 
-A Javascript `set` is an object/collection of unique elements.
-
-* creating a `set`:
-* creating a `set` from an array:
-* adding an element to a `set`:
-* looping a `set`:
 
 ## 7. Javascript Default Function Parameters
 
