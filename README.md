@@ -13,11 +13,7 @@ Hoisting is when the Javascript file interpreter moves all the functions, variab
 
 ## 8. [Javascript Array Methods](https://github.com/TluwaniMS/Javascript-Array-Methods)
 
-## 9. Javascript Destructuring
-
-* How to access object properties:
-* How to access object properties and assign a new name to them:
-* How to access object properties and assign a new name to them and a default parameter:
+## 9. [Javascript Object Destructuring](https://github.com/TluwaniMS/Javascript-Object-Destructuring)
 
 ## 10. Javascript Template Literals
 
