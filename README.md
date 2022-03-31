@@ -173,6 +173,11 @@ The `push()` method is used to add new elements to the end of an array
 The `splice()` method is used to either add or remove elements from an array
 
 ## 9. Javascript Destructuring
+
+* How to access object properties:
+* How to access object properties and assign a new name to them:
+* How to access object properties and assign a new name to them and a default parameter:
+
 ## 10. Javascript Template Literals
 ## 11. Javascript Switch Statements
 ## 12. Javascript Ternary Operators
