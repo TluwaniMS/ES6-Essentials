@@ -130,7 +130,18 @@ The `sort()` method by default sorts values as strings and sorts them in ascendi
 if ever an array of integers is passed the elements will be converted to strings and sorted according to eacch characters Unicode code point value.
 
 ## 5. Javascript Arrow Functions
+
+`Arrow functions` are/offer a shorter way of writing Javascript functions.
+
 ## 6. Javascript Sets
+
+A Javascript `set` is an object/collection of unique elements.
+
+* creating a `set`:
+* creating a `set` from an array:
+* adding an element to a `set`:
+* looping a `set`:
+
 ## 7. Javascript Default Function Parameters
 ## 8. Javascript Array Methods
 ## 9. Javascript Destructuring
