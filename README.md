@@ -50,6 +50,13 @@ Variables that are declared with the `const` keyword are limited within
 
 -> Variables defined with `const` can not be reassigned.
 ## 4. Javascript Higher Order Array Functions
+
+`NB!` What are `Higher Order Functions`:
+
+`Higher Order Functions` are functions that take in other functions as arguments or return functions.
+
+`Javascript Higher Order Array Functions` call a `Callback Function` for each element in the array provided and return an array of values;
+excluding `reduce()`.
 ## 5. Javascript Arrow Functions
 ## 6. Javascript Sets
 ## 7. Javascript Default Function Parameters
