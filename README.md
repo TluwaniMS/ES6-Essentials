@@ -17,3 +17,8 @@ Hoisting is when the Javascript file interpreter moves all the functions, variab
 ## 14. [Javascript Promise](https://github.com/TluwaniMS/Javascript-Promise)
 ## 15. [Javascript setTimeout](https://github.com/TluwaniMS/Javascript-setTimeout)
 ## 16. [Javascript setInterval](https://github.com/TluwaniMS/Javascript-setInterval)
+
+# Supporting Videos:
+* [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course)](https://www.youtube.com/watch?v=nZ1DMMsyVyI&t=1120s)
+* [ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+* [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=2s)
